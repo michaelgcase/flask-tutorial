@@ -1,0 +1,14 @@
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Byte-compiled
+*.py[cod]
+*$py.class
+
+# Safe Folder
+safe/
+
+
