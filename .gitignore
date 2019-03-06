@@ -7,8 +7,18 @@ venv/
 # Byte-compiled
 *.py[cod]
 *$py.class
+__pycache__/
 
 # Safe Folder
 safe/
+
+instance/
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
 
 
